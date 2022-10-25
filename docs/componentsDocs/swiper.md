@@ -13,15 +13,15 @@
 list1: [
         {
         id: 0,
-        imgSrc: '/picture1.4c4d0655.png'
+        imgSrc: '/congUI/picture1.4c4d0655.png'
         },
         {
         id: 1,
-        imgSrc: '/picture2.20a36478.png'
+        imgSrc: '/congUI/picture2.20a36478.png'
         },
         {
         id: 2,
-        imgSrc: '/picture3.15c04f77.png'
+        imgSrc: '/congUI/picture3.15c04f77.png'
         },
     ],
 ```

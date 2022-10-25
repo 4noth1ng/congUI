@@ -3,11 +3,11 @@
 
 ### 实例
 ### 
-<c-card imgSrc="/1.png" summary="test"></c-card>
+<c-card imgSrc="/congUI/1.png" summary="test"></c-card>
 
 ### 代码
 ```html
-<c-card imgSrc="/1.png" summary="test"></c-card>
+<c-card imgSrc="/congUI/1.png" summary="test"></c-card>
 ```
 
 ### Attributes
