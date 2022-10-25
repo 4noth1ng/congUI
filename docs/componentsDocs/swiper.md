@@ -3,11 +3,11 @@
 
 ### 实例
 ### 
-<c-swiper></c-swiper>
+<c-swiper :list="list1" :autoplay="true" :duartion="1000"></c-swiper>
 
 ### 代码
 ```html
-<c-swiper :list="list" :autoplay="true" :duartion="1000"></c-swiper>
+<c-swiper :list="list1" :autoplay="true" :duartion="1000"></c-swiper>
 ```
 ```javascript
 list1: [
