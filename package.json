@@ -10,7 +10,7 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "cong-ui": "^0.1.1",
+    "cong-ui": "^0.1.12",
     "core-js": "^3.8.3",
     "sass": "^1.55.0",
     "sass-loader": "^9.0.3",
